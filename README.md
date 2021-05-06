@@ -1,6 +1,8 @@
-# css-cohort
+# Openscapes Champions: CS&S Cohort
 
 Welcome!
+
+The Agenda links below are accessible only by the Cohort; if you want to see the public blank copies, see <https://openscapes.org/series>
 
 Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
