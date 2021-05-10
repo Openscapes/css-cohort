@@ -8,3 +8,8 @@ This opportunity is funded by Code for Science and Society ([CS&S](https://event
 
 <!---The Agenda links below are accessible only by the Cohort; if you want to see the public blank copies, see <https://openscapes.org/series> --->
 
+
+
+## The Cohort's GitHub Organizations 
+
+- [Kenai-Watershed-Forum](https://github.com/Kenai-Watershed-Forum) 
