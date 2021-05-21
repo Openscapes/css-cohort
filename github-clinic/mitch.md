@@ -15,6 +15,7 @@ Name | Twitter | GitHub
 -----|---------|--------
 openscapes | [@openscapes](https://twitter.com/openscapes) | [@erinmr](https://github.com/openscapes)
 palmerpenguins |  | [@palmerpenguins](https://github.com/allisonhorst/palmerpenguins)
+WildCo Lab | [@WildCoLab](https://twitter.com/wildco_lab) | [@WildCoLab](https://githb.com/Wildcolab)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
