@@ -1,4 +1,7 @@
 I am editing, would this work?
+Can I insert [] what does this do?
+
+
 
 # The power of open science: publishing with GitHub
 
