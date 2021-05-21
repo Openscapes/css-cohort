@@ -15,8 +15,9 @@ Here is a table with some collaborators *(tables use `|`s and `-`s to separate c
 
 Name | Twitter | GitHub
 -----|---------|--------
-openscapes | [@mirandaroethler](https://twitter.com/mirandaroethler) | [@mirandaroethler](https://github.com/mirandaroethler)
+openscapes | [@openscapes](https://twitter.com/openscapes) | [@openscapes](https://github.com/openscapes)
 palmerpenguins |  | [@palmerpenguins](https://github.com/allisonhorst/palmerpenguins)
+Miranda | [@mirandaroethler] (https://twitter.com/mirandaroethler) | [@mirandaroethler](https://github.com/mirandaroethler)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
