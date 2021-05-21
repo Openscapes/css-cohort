@@ -7,6 +7,7 @@ Here is a list *(lists need a carriage return before list items):*
 
 - bananas
 - tamales
+- peanut butter
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
@@ -19,5 +20,7 @@ palmerpenguins |  | [@palmerpenguins](https://github.com/allisonhorst/palmerpeng
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
 We can include an image with the same format, but note the preceding exclamation point: `![]()` *(From the browser, you'll need an image with an existing url).* 
+
+Fun sentence to type just to see if this pops up later when I commit my changes.
 
 ![](https://octodex.github.com/images/labtocat.png)
