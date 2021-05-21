@@ -8,7 +8,8 @@ Here is a list *(lists need a carriage return before list items):*
 - bananas
 - tamales
 
-Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
+Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*: great! I could edit the directions 
+
 
 
 Name | Twitter | GitHub
