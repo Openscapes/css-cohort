@@ -1,4 +1,11 @@
 # The power of open science: publishing with GitHub
+**bold**
+*(hello)*
+
+**list**
+
+- snow
+- rain
 
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
 Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguins>
