@@ -22,6 +22,6 @@ We can include an image with the same format, but note the preceding exclamation
 
 ![](https://octodex.github.com/images/labtocat.png)
 
-$$
-\sum_{n=1}^{\infty} \frac{2n}{2n-1}\frac{2n}{2n+1}
-$$
+
+$\sum_{n=1}^{\infty} \frac{2n}{2n-1}\frac{2n}{2n+1}$
+
