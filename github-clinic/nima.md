@@ -18,6 +18,7 @@ Name | Twitter | GitHub
 -----|---------|--------
 openscapes | [@openscapes](https://twitter.com/openscapes) | [@erinmr](https://github.com/openscapes)
 palmerpenguins |  | [@palmerpenguins](https://github.com/allisonhorst/palmerpenguins)
+Nima | [@nimafarchadi](https://twitter.com/nimafarchadi) |
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
