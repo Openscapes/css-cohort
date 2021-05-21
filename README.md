@@ -13,4 +13,4 @@ This opportunity is funded by Code for Science and Society ([CS&S](https://event
 ## The Cohort's GitHub Organizations 
 
 - [Kenai-Watershed-Forum](https://github.com/Kenai-Watershed-Forum) 
-- [WildCoLab](https://github.comWildCoLab)
+- [WildCoLab](https://github.com/WildCoLab)
