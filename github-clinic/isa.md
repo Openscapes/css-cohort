@@ -3,9 +3,9 @@
 [Sharks are awesome!](https://www.bbc.co.uk/newsround/47289113) and have a beautifuls smile <https://www.bbc.co.uk/newsround/47289113>
 
 
-- [ ] smile
+- [x] smile
 - [ ] strength
-- [ ] playful :D
+- [x] playful :D
 
 
 Name | Twitter | GitHub
