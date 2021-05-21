@@ -1,5 +1,7 @@
 # The power of open science: publishing with GitHub
 
+write some text anywhere
+
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
 Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguins>
 
@@ -8,7 +10,7 @@ Here is a list *(lists need a carriage return before list items):*
 - bananas
 - tamales
 
-Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
+Here is a table with some collaborators 
 
 
 Name | Twitter | GitHub
