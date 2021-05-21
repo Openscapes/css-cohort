@@ -8,6 +8,12 @@ Here is a list *(lists need a carriage return before list items):*
 - bananas
 - tamales
 
+**Here is another list**
+
+- books
+- apples
+- water
+
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
 
