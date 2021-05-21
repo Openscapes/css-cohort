@@ -25,3 +25,4 @@ We can include an image with the same format, but note the preceding exclamation
 ![](https://pbs.twimg.com/media/E1SYXI8WQAMTmoj?format=jpg&name=large)
 
 @wildcole Ahhh a bear!
+
