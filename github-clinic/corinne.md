@@ -1,6 +1,6 @@
 # The power of open science: publishing with GitHub
 
-Write text hear 
+Write text hear, try to link to an issue
 
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
 Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguins>
