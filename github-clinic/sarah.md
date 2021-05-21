@@ -3,6 +3,8 @@
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
 Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguins>
 
+
+
 Here is a list *(lists need a carriage return before list items):*
 
 - bananas
@@ -10,6 +12,9 @@ Here is a list *(lists need a carriage return before list items):*
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
+fruit | Veggies
+------|-------
+apple | lettuce
 
 Name | Twitter | GitHub
 -----|---------|--------
