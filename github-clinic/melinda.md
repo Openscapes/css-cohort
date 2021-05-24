@@ -21,3 +21,16 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 We can include an image with the same format, but note the preceding exclamation point: `![]()` *(From the browser, you'll need an image with an existing url).* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
+
+Here is a website from our institute: (https://www.ntaatribalair.org/status-of-tribal-air-report/)
+ 
+Here is another table with one skipped line:
+
+bug | count | location
+-----|---------|--------
+housefly | thousands | everywhere
+|||
+ladybug|one|windowsill
+
+
