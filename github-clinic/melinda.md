@@ -30,7 +30,7 @@ Here is another table with one skipped line:
 bug | count | location
 -----|---------|--------
 housefly | thousands | everywhere
-|||
-ladybug|one|windowsill
+|[value is=]value|
+|ladybug|one|windowsill
 
 
